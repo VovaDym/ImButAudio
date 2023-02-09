@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Files/Off.png</file>
+        <file>Files/On.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>Files/cl.wav</file>
+    </qresource>
+</RCC>
